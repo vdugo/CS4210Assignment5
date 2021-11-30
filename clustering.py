@@ -1,9 +1,12 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Vincent Verdugo
 # FILENAME: clustering.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Runs K-means clustering algorithm with k from 2 to 20
+# gets the highest silhouette coefficient value of all the runs
+# then calculates K-means homogeneity score and agglomerative clustering
+# homogeneity score
 # FOR: CS 4210 - Assignment #5
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 1.5 hours
 #-----------------------------------------------------------*/
 
 #importing some Python libraries
